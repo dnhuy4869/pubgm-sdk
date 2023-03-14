@@ -210,7 +210,7 @@ enum class EPixelFormat : uint8_t
 	PF_ETC2_RG11                   = 64,
 	PF_ETC2_SIGNED_RG11            = 65,
 	PF_ETC2_RGB_PUNCHTHROUGH_ALPHA1 = 66,
-	PF_MAX                         = 67
+	//PF_MAX                         = 67
 };
 
 
